@@ -1,1 +1,1 @@
-# patika--devler
+# patikadaki ödevler
