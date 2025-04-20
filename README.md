@@ -1,1 +1,1 @@
-# patikadaki ödevler
+
